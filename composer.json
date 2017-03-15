@@ -3,6 +3,7 @@
     {
       "type": "composer",
       "url": "https://wpackagist.org"
+      "author: "theoneandonly"
     }
   ],
   "require": {
